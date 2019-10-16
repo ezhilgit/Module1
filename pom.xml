@@ -4,7 +4,7 @@
 
   <groupId>com.git.example</groupId>
   <artifactId>Module1</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-Task-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Module1</name>
